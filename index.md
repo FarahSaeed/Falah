@@ -1,5 +1,3 @@
-<!--- 
-
 ## 2022 Salah times Athens GA USA
 
 [Add to google calendar](https://calendar.google.com/calendar/u/0?cid=a2IwZTBlbG83Njg4MjJmZTJmZDRtMGllYWNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
@@ -7,6 +5,10 @@
 Source: [Islamicfinder.org] (https://www.islamicfinder.org)
 
 Note: Times were double checked from google calendar to make sure they are not different from the source. If you find any time odd or differernt from source, you may let us know by add an github issue [here] (https://github.com/FarahSaeed/Falah/issues) 
+
+
+<!--- 
+
 
 #### This is a new site
 
